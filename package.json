@@ -1,0 +1,9 @@
+{
+  "name": "json-server-demo",
+  "scripts": {
+    "start": "json-server --watch api/db.js"  
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
